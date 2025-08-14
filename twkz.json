@@ -1,16 +1,16 @@
 {
-    "0000001": {
-        "name": "Tweak Name!",
-        "developer": "Dev of the tweak",
-        "description": "What the tweak does!",
-        "image": "TV",
-        "version": "1.0",
-    },
-    "0000002": {
-        "name": "Tweak Name!",
-        "developer": "Dev of the tweak",
-        "description": "What the tweak does!",
-        "image": "TV",
-        "version": "1.0",
-    },
+  "0000001": {
+    "name": "Tweak Name!",
+    "developer": "Dev of the tweak",
+    "description": "What the tweak does!",
+    "image": "TV",
+    "version": "1.0"
+  },
+  "0000002": {
+    "name": "Tweak Name!",
+    "developer": "Dev of the tweak",
+    "description": "What the tweak does!",
+    "image": "TV",
+    "version": "1.0"
+  }
 }
