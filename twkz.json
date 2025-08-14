@@ -1,4 +1,12 @@
 {
+  "0000000": {
+    "name": "Activator",
+    "developer": "Ryan Petrich",
+    "shortdesc": "Centralized gestures, button and shortcut management for iOS",
+    "description": "Centralized gestures, button and shortcut management for iOS",
+    "image": "activator",
+    "version": "1.9.13~rc6"
+  },
   "0000001": {
     "name": "Tweak Name!",
     "developer": "Dev of the tweak",
