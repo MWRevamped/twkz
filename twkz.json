@@ -5,7 +5,8 @@
     "shortdesc": "Centralized gestures, button and shortcut management for iOS",
     "description": "Centralized gestures, button and shortcut management for iOS",
     "image": "activator",
-    "version": "1.9.13~rc6"
+    "version": "1.9.13~rc6",
+    "iconradius": "7"
   },
   "0000001": {
     "name": "Tweak Name!",
