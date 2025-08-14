@@ -2,14 +2,17 @@
   "0000001": {
     "name": "Tweak Name!",
     "developer": "Dev of the tweak",
-    "description": "What the numbah one tweak does!",
-    "image": "TV",
+    "shortdesc": "Shortened version of what the tweak does",
+    "description": "The full and proper description to help guide users on how to use the tweak and what it alone does!",
+    "image": "",
     "version": "1.0"
   },
   "0000002": {
     "name": "Tweak Numbah 2!",
     "developer": "Dev over the weak",
-    "description": "What doesn't the tweak do?!",
+    "shortdesc": "What doesn't the tweak do?!",
+    "description": "Some more info on the numbah two tweeak!!! Bettah than the rest!",
+    "image": "TV",
     "version": "2.0"
   }
 }
