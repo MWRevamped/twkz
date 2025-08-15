@@ -4,9 +4,9 @@
     "developer": "Ryan Petrich",
     "shortdesc": "Centralized gestures, button and shortcut management for iOS",
     "description": "Centralized gestures, button and shortcut management for iOS",
-    "image": "activator",
+    "image": "activatorv2",
     "version": "1.9.13~rc6",
-    "iconradius": 7
+    "iconradius": 180
   },
   "0000001": {
     "name": "Tweak Name!",
