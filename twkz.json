@@ -23,5 +23,13 @@
     "description": "Some more info on the numbah two tweeak!!! Bettah than the rest!",
     "image": "TV",
     "version": "2.0"
+  },
+  "0000003": {
+    "name": "Tweak Numbah 3!",
+    "developer": "Inferior dev",
+    "shortdesc": "Ughhh just install it!!",
+    "description": "SNuh, no description for you!!!",
+    "image": "grah",
+    "version": "3.0"
   }
 }
