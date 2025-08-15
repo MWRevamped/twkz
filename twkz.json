@@ -1,12 +1,12 @@
 {
   "0000000": {
-    "name": "Activatored",
+    "name": "Activator",
     "developer": "Ryan Petrich",
     "shortdesc": "Centralized gestures, button and shortcut management for iOS",
     "description": "Centralized gestures, button and shortcut management for iOS",
     "image": "activatorv2",
     "version": "1.9.13~rc6",
-    "iconradius": 0.03418
+    "iconradius": 18
   },
   "0000001": {
     "name": "Tweak Name!",
